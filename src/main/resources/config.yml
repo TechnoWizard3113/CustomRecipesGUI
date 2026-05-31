@@ -1,0 +1,27 @@
+#EXAMPLE:
+#recipes:
+#  fire_sword:
+#    display: "Fire Sword"
+#
+#    shape:
+#      - "ABC"
+#      - "DEF"
+#      - "GHI"
+#
+#    result:
+#      material: DIAMOND_SWORD
+#      name: "&cFire Sword"
+#
+#    ingredients:
+#      A: { material: BLAZE_ROD, amount: 4 }
+#      B: { material: AIR, amount: 1 }
+#      C: { material: AIR, amount: 1 }
+#
+#      D: { material: NETHER_STAR, amount: 2 }
+#      E: { material: STICK, amount: 1 }
+#      F: { material: AIR, amount: 1 }
+#
+#      G: { material: AIR, amount: 1 }
+#      H: { material: MAGMA_CREAM, amount: 8 }
+#      I: { material: AIR, amount: 1 }
+

@@ -1,0 +1,10 @@
+name: CustomRecipesGUI
+version: 26.1.x
+main: net.customrecipes.plugin.CustomRecipesGUI
+api-version: "26.1"
+
+commands:
+  recipes:
+    description: Opens custom recipes GUI
+    usage: /recipes
+    aliases: [recepies]
