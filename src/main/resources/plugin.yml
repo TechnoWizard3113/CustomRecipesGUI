@@ -1,5 +1,5 @@
 name: CustomRecipesGUI
-version: 26.1.x
+version: 26.1.2
 main: net.customrecipes.plugin.CustomRecipesGUI
 api-version: "26.1"
 
